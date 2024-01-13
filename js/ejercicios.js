@@ -113,3 +113,6 @@ if(auto == 1){
      descp= 25000*0.10
 }
 document.writeln(`Ustede a comprado el auto modelo ${modelo}<br>con el precio de $${precio}<br>con el descuento de ${porc}% ${descp}<br>precio final $${desc1}`)
+
+
+//LOS EJERCICIOS ANTERIORES ESTAN COMENTADOS PARA QUE SE PUEDA VERIFICAR EL ULTIMO
